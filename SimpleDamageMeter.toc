@@ -1,0 +1,7 @@
+## Interface: 100026  -- (Update this to the current interface number)
+## Title: SimpleDamageMeter
+## Notes: A simple damage meter addon
+## Author: Neusense
+## Version: 0.1
+## SavedVariables: SimpleDamageMeterDB
+SimpleDamageMeter.lua
