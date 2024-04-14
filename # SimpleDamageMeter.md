@@ -43,5 +43,5 @@ SimpleDamageMeter is released under the [MIT License](https://opensource.org/lic
 - Special thanks to ChatGPT for adding comments to the code, and for assitance in debugging, with out you, i'd be nothing.
 
 ---
-
+## Want to say thanks? - Buy me a coffee: https://ko-fi.com/galaxygoose
 © 2024 GalaxyGoose. All rights reserved.
